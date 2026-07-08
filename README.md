@@ -20,6 +20,12 @@
 - Tropical savanna climate (Aw) bordering on a hot semi-arid climate (BSh) (Köppen climate classification)
 - source - https://en.wikipedia.org/wiki/Mysore
 
+## Important Data
+- AQI
+- Main Transportation Networks
+- Area + ratio of water bodies, infrastructure and greenery
+- Climate Conditions
+
 ## Userful Links
 - http://www.mysurucity.mrc.gov.in/
 - https://www.data.gov.in/search?title=mysore&type=resources&sortby=_score
